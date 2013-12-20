@@ -1,0 +1,9 @@
+c:\users\дмитрий\documents\visual studio 2012\Projects\SchemesGenerator\bin\Debug\SchemesGenerator.exe.config
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\obj\Debug\SchemesGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\obj\Debug\SchemesGenerator.Form1.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\obj\Debug\SchemesGenerator.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\obj\Debug\SchemesGenerator.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\bin\Debug\SchemesGenerator.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\bin\Debug\SchemesGenerator.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\obj\Debug\SchemesGenerator.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\SchemesGenerator\obj\Debug\SchemesGenerator.pdb
